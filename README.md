@@ -1,4 +1,4 @@
-Application allows add nwe task to the list. Tasks can be edited, removed and checked 'done'. Number of completed task is calculated above the list.
+Application allows add new task to the list. Tasks can be edited, removed and checked 'done'. Number of completed task is calculated above the list.
 
 Technologies: VUE.js, Bootstrap4
 
